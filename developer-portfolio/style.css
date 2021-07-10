@@ -1,0 +1,70 @@
+body {
+  font-family: "Patrick Hand", cursive;
+  margin: 0px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+.pink-color {
+  color: pink;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 60%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(red, pink);
+  padding: 10px 40px;
+
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.top-banner {
+  background-image: url(top-banner.png);
+  background-repeat: no-repeat;
+}
+.dream-big {
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.develop {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  box-shadow: 10px 10px 40px gray;
+  border-left: 10px solid;
+}
+.experience-area {
+  background-image: url(exp-bg.png);
+
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#baby-web {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+#full-stack {
+  border-left: 7px solid;
+  border-image: linear-gradient(salmon, pink);
+  border-image-slice: 1;
+}
+
+footer p {
+  text-align: center;
+}

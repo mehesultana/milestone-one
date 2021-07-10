@@ -1,0 +1,25 @@
+h1 {
+  color: rgb(16, 168, 238);
+}
+h3 {
+  color: palevioletred;
+  background-color: aqua;
+  display: inline;
+}
+
+.pera {
+  background-color: bisque;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid blue;
+  border-radius: 20px;
+  border-left: 50%;
+  border-right: 50%;
+
+  margin: 30px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  margin-block-end: 10px;
+}

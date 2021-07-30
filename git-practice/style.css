@@ -1,19 +1,18 @@
 h1 {
-  background-color: plum;
-  display: inline;
+    background-color: plum;
+    display: inline;
 }
 
 image {
-  size: 40%;
-  display: inline;
-  margin: 30%;
-  margin-left: 30%;
-  margin-right: 30%;
+    size: 40%;
+    display: inline;
+    margin: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 p {
-  font-size: large;
+    font-size: large;
 
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
 }
